@@ -27,3 +27,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![Proje Resmi](https://i.hizliresim.com/driv0qm.png)
